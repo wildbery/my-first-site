@@ -1,0 +1,11 @@
+{
+  "name": "socket_chat_site",
+  "version": "0.0.1",
+  "description": "my first node_socket.io program",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
